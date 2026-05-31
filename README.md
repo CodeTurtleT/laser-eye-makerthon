@@ -9,6 +9,6 @@ Welcome to the official repository for the "Laser-Eye" prototype, developed duri
 ## 📂 Repository Structure (Team: Please upload here!)
 - `/software` - Machine Learning models, Raspberry Pi integration, and camera scripts.
 - `/hardware` - CAD files and 3D printing parameters for the physical enclosure.
-- `/presentation` - Pitch deck and architectural diagrams.
+- `/documents` - Pitch deck and instructions.
 
 *(Note: This repository is currently under construction. Full documentation, setup instructions, and code will be updated shortly.)*
