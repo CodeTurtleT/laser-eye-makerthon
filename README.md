@@ -1,6 +1,6 @@
 # 👁️⚡ Laser-Eye 
 
-**AI-based laser scale metrology for material classification**
+**AI-based laser speckle metrology for material classification**
 
 🥇 **1st Place Winner – Makerthon 2026 (LASER.region.AACHEN)**
 
@@ -12,14 +12,14 @@ Welcome to the official repository for the "Laser-Eye" prototype, developed duri
 ## 📂 Repository Structure (Team: Please upload your files here!)
 - `/software` - Machine Learning models, Raspberry Pi integration, and camera scripts.
 - `/hardware` - CAD files and 3D printing parameters for the physical enclosure.
-- `/documents` - Pitch deck and instructions.
+- `/documents` - Pitch deck and instructions *(Note: Slides are in German 🇩🇪)*.
 
 ## 👥 The Team
-* **Lena ** (RWTH Aachen University) – *Physics Student*
+* **Lena Sagenschneider** (RWTH Aachen University) – *Physics Student*
 * **Louis Becker Vasquez** (FH Aachen University of Applied Sciences) – *Mechanical Engineering Student*
 * **Trinity Hopp** (Friedrich Schiller University Jena) – *Physics Student*
-* **Titus** (RWTH Aachen University]) – *Mechanical Engineering Student*
+* **Titus Nachname?** (RWTH Aachen University) – *Mechanical Engineering Student*
 * **Reynold Prajogo** (RWTH Aachen University) – *Electrical Engineering Student*
 * **Kiana Enriquez Schäfer** (RWTH Aachen University) – *Physics Student*
-* 
+  
 *(Note: This repository is currently under construction. Full documentation, setup instructions, and code will be updated shortly.)*
