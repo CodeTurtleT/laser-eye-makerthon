@@ -15,11 +15,11 @@ Welcome to the official repository for the "Laser-Eye" prototype, developed duri
 - `/documents` - Pitch deck and instructions *(Note: Slides are in German 🇩🇪)*.
 
 ## 👥 The Team
-* **Lena Sagenschneider** (RWTH Aachen University) – *Physics Student*
-* **Louis Becker Vasquez** (FH Aachen University of Applied Sciences) – *Mechanical Engineering Student*
-* **Trinity Hopp** (Friedrich Schiller University Jena) – *Physics Student*
-* **Titus Nachname?** (RWTH Aachen University) – *Mechanical Engineering Student*
-* **Reynold Prajogo** (RWTH Aachen University) – *Electrical Engineering Student*
-* **Kiana Enriquez Schäfer** (RWTH Aachen University) – *Physics Student*
+* **Lena Sagenschneider** (RWTH Aachen University) – *physics*
+* **Louis Becker Vasquez** (FH Aachen University of Applied Sciences) – *mechanical engineering*
+* **Trinity Hopp** (Friedrich Schiller University Jena) – *physics*
+* **Titus Nachname?** (RWTH Aachen University) – *mechanical engineering*
+* **Reynold Prajogo** (RWTH Aachen University) – *electrical engineering*
+* **Kiana Enriquez Schäfer** (RWTH Aachen University) – *physics*
   
 *(Note: This repository is currently under construction. Full documentation, setup instructions, and code will be updated shortly.)*
