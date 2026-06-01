@@ -7,7 +7,7 @@
 Welcome to the official repository for the "Laser-Eye" prototype, developed during the 4-day Makerthon in Aachen by an interdisciplinary team.
 
 * [Official Event Website](#) *(Link coming soon)*
-* [RWTH Aachen Press Release](#) *(Expected soon, as the event took place May 26–29, 2026)*
+* [RWTH Aachen GitHub Repo](#) *(Expected soon, as the event took place May 26–29, 2026)*
 
 ## 📂 Repository Structure (Team: Please upload your files here!)
 - `/software` - Machine Learning models, Raspberry Pi integration, and camera scripts.
