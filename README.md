@@ -18,7 +18,7 @@ Welcome to the official repository for the "Laser-Eye" prototype, developed duri
 * **Lena Sagenschneider** (RWTH Aachen University) – *physics*
 * **Louis Becker Vasquez** (FH Aachen University of Applied Sciences) – *mechanical engineering*
 * **Trinity Hopp** (Friedrich Schiller University Jena) – *physics*
-* **Titus Nachname?** (RWTH Aachen University) – *mechanical engineering*
+* **Titus Dietz?** (RWTH Aachen University) – *mechanical engineering*
 * **Reynold Prajogo** (RWTH Aachen University) – *electrical engineering*
 * **Kiana Enriquez Schäfer** (RWTH Aachen University) – *physics*
   
