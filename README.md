@@ -6,7 +6,7 @@
 
 Welcome to the official repository for the "Laser-Eye" prototype, developed during the 4-day Makerthon in Aachen by an interdisciplinary team.
 
-* [LinkedIn Post of the Event](https://www.linkedin.com/posts/lasertechnik-makerthon-hyde-ugcPost-7467485071151775744-Q2aH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbx-eQBtJJE2mVteDP4laLHxgeN6eiEasc) *(Link coming soon)*
+* [LinkedIn Post of the Event](https://www.linkedin.com/posts/lasertechnik-makerthon-hyde-ugcPost-7467485071151775744-Q2aH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbx-eQBtJJE2mVteDP4laLHxgeN6eiEasc) 
 * [RWTH Aachen GitHub Repo](#) *(Expected soon, as the event took place May 26–29, 2026)*
 
 ## 📂 Repository Structure (Team: Please upload your files here!)
@@ -18,7 +18,7 @@ Welcome to the official repository for the "Laser-Eye" prototype, developed duri
 * **Lena Sagenschneider** (RWTH Aachen University) – *physics*
 * **Louis Becker Vasquez** (FH Aachen University of Applied Sciences) – *mechanical engineering*
 * **Trinity Hopp** (Friedrich Schiller University Jena) – *physics*
-* **Titus Dietz?** (RWTH Aachen University) – *mechanical engineering*
+* **Titus Dietz** (RWTH Aachen University) – *mechanical engineering*
 * **Reynold Prajogo** (RWTH Aachen University) – *electrical engineering*
 * **Kiana Enriquez Schäfer** (RWTH Aachen University) – *physics*
   
